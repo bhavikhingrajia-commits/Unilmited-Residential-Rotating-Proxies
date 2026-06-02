@@ -40,8 +40,8 @@ Whether you need a **pay-as-you-go rotating residential gateway** to bypass comp
 
 | Proxy Product | Active IP Pool | Latency Benchmark | Starting Rates | Core Feature | Optimal Use Case |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Rotating Residential](https://proxyvoxy.com/residential-proxies/)** | 90 Million+ IPs | ~34ms | **$2.00 / GB** | Country / City targeting | Web scraping, Antibot bypasses |
-| **[Unlimited Residential](https://proxyvoxy.com/unlimited-proxies/)** | 90 Million+ IPs | ~34ms | **$120.00 / Mo** | Unmetered gigabit bandwidth | Massive pipelines, Terabyte scrapes |
+| **[Rotating Residential](https://proxyvoxy.com/residential-proxies/)** | 90 Million+ IPs | ~34ms | **$3.00 / GB** | Country / City targeting | Web scraping, Antibot bypasses |
+| **[Unlimited Residential](https://proxyvoxy.com/unlimited-proxies/)** | 90 Million+ IPs | ~34ms | **$83.33 / Day** | Unmetered gigabit bandwidth | Massive pipelines, Terabyte scrapes |
 | **[Static ISP Hybrid](https://proxyvoxy.com/isp-proxies/)** | Consumer ASN Pools | <15ms | **$1.80 / IP** | Permanent dedicated lock | Sneaker drops, Social accounts |
 | **[Gigabit Datacenter](https://proxyvoxy.com/datacenter-proxies/)** | Server Subnets | <15ms | **$0.70 / IP** | 10 Gbps unmetered backbones | SERP harvesting, public scraping |
 
@@ -55,7 +55,7 @@ Traditional proxy giants charge astronomical pricing models gated by aggressive 
 
 | Performance Metric | 🚀 ProxyVoxy | 🟡 Bright Data (Luminati) | 🔵 Oxylabs | 🟢 Smartproxy |
 | :--- | :--- | :--- | :--- | :--- |
-| **Starting Rate (per GB)** | **$2.00 / GB** | $8.40 / GB | $8.00 / GB | $4.00 / GB |
+| **Starting Rate (per GB)** | **$3.00 / GB** | $8.40 / GB | $8.00 / GB | $4.00 / GB |
 | **Monthly Commitment** | **$0 (Pay-As-You-Go)** | $300 / mo | $500 / mo | $0 (Limited plans) |
 | **Active IP Pool Size** | **90 Million+** | 72 Million+ | 100 Million+ | 55 Million+ |
 | **SOCKS5 Support** | **Yes (Native)** | Yes | Yes | Yes |
@@ -173,7 +173,7 @@ Ready to bypass automated rate-limiting, scraping blocks, and geolocation restri
 1. **[Create Your Free Developer Account](https://proxyvoxy.com/register)** (No credit card or monthly contract required).
 2. **Verify your developer profile** in the dashboard.
 3. Claim your **500MB of Free Premium Residential bandwidth** instantly.
-4. Scale your automated scripts using pay-as-you-go starting at **$2.00/GB** or flat-rate unthrottled monthly channels starting at **$120.00/month**.
+4. Scale your automated scripts using pay-as-you-go starting at **$3.00/GB** or unthrottled bandwidth channels starting at **$83.33/day** ($2500.00/month).
 
 ---
 
